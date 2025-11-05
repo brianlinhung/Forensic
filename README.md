@@ -62,12 +62,11 @@ Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic
 
 ## ✨ ChangeLog
 [See Wiki](https://github.com/brianlinhung/Live-Forensicator/wiki/Changelog) For full Changelog.
-```bash
-
 Windows: v4.0.2 07/08/2024
 1. Windows: Added hash check for malware detection.
 2. Windows: Minor Bug Fixes.
 3. Windows: Added a notification when Forensicator is not running as admin.
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/forensicator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ebuka" /></a></p><br><br>
