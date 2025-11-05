@@ -5,23 +5,23 @@ Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic
 <p>It achieves this by gathering different system information for further review for anomalous behavior or unexpected data entry, it also looks out for unusual files or activities and points it out to the investigator.</p>
 <p>It is paramount to note that these scripts have no inbuilt intelligence it's left for the investigator to analyze the output and decide on a conclusion or conduct a deeper investigation.</p>
 
-# 🖳 Forensicator For WINDOWS
+# 🖳 Forensic For WINDOWS
 <p>The windows version of Forensicator is written in Powershell.</p>
 <p> Forensicator for Windows has added the ability to analyze Event Logs, it queries the event logs for certain log IDs that might point to unusual activity or compromise. </p>
 
-[Check out Forensicator for Windows](https://github.com/Johnng007/Live-Forensicator/tree/main/Windows)
+[Check out Forensicator for Windows](https://github.com/brianlinhung/Live-Forensicator/tree/main/Windows)
 
 
-# 👨‍💻 Forensicator For MacOS
+# 👨‍💻 Forensic For MacOS
 <p>The MacOS version is a shell script.</p>
 
-[Check out Forensicator for MacOS](https://github.com/Johnng007/Live-Forensicator/tree/main/MacOS/)
+[Check out Forensicator for MacOS](https://github.com/brianlinhung/Live-Forensicator/tree/main/MacOS/)
 
 
-# 👩‍💻 Forensicator For LINUX
+# 👩‍💻 Forensic For LINUX
 <p>The Linux version is written in Bash.</p>
 
-[Check out Forensicator for Linux](https://github.com/Johnng007/Live-Forensicator/tree/main/Linux)
+[Check out Forensicator for Linux](https://github.com/brianlinhung/Live-Forensicator/tree/main/Linux)
 
 > #### NOTE: 
 > The Bash codes were written for cross-compatibility across Linux distros so therefore efforts were made to use OS native commands while avoiding secondary utilities like `net-tools`.
@@ -53,15 +53,15 @@ Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic
 
 
 ## Screenshot
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_Output.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_Output.png?raw=true" alt="Forensicator"  /> <br>
 ## HTML Output
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML1.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML2.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML3.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML1.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML2.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML3.png?raw=true" alt="Forensicator"  /> <br>
 <br></br>
 
 ## ✨ ChangeLog
-[See Wiki](https://github.com/Johnng007/Live-Forensicator/wiki/Changelog) For full Changelog.
+[See Wiki](https://github.com/brianlinhung/Live-Forensicator/wiki/Changelog) For full Changelog.
 ```bash
 
 Windows: v4.0.2 07/08/2024
@@ -70,13 +70,6 @@ Windows: v4.0.2 07/08/2024
 3. Windows: Added a notification when Forensicator is not running as admin.
 
 ```
-
-
-
-## 🤔 MORE TOOLS
-Want to check out other Black Widow Tools?
-1. [Anteater](https://github.com/Johnng007/Anteater) - A Python-based web reconnaissance tool.
-2. [Nessus Pro API](https://github.com/Johnng007/PowershellNessus) - A PowerShell Script to Export and Download Nessus Scan Results via Nessus API. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.
