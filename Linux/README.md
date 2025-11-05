@@ -2,22 +2,6 @@
 <h3 align="center">BASH SCRIPT TO AID LIVE FORENSICS & INCIDENCE RESPONSE</h3>
 <h3 align="center">Linux Digital Forensics Tool</h3>
                                                
-```bash
-
-
-___________                                .__               __                
-\_   _____/__________   ____   ____   _____|__| ____ _____ _/  |_  ___________ 
- |    __)/  _ \_  __ \_/ __ \ /    \ /  ___/  |/ ___\\__  \\   __\/  _ \_  __ \
- |     \(  <_> )  | \/\  ___/|   |  \\___ \|  \  \___ / __ \|  | (  <_> )  | \/
- \___  / \____/|__|    \___  >___|  /____  >__|\___  >____  /__|  \____/|__|   
-     \/                    \/     \/     \/        \/     \/                    
-
-                                                                          v4.0.1
-
-
-
-```
-
 
 # 🤔 ABOUT
 
@@ -45,7 +29,7 @@ But Forensicator can work without these dependencies, they just help with additi
 
 ```bash
 # copy the files to the computer
-git clone https://github.com/Johnng007/Live-Forensicator.git
+git clone https://github.com/brianlinhung/Live-Forensicator.git
 
 # change to the Linux Directory and Make script executable
 cd Linux && chmod 777 Forensicator.sh
@@ -195,32 +179,19 @@ cd Linux && chmod 777 Forensicator.sh
 
 ## 🤔 MORE TOOLS
 Want to check out other Black Widow Tools?
-1. Anteater - A python based web reconnaisence tool. https://github.com/Johnng007/Anteater
-2. Nessus Pro API - A powershell Script to Export and Download Nessus Scan Results via Nessus API. https://github.com/Johnng007/PowershellNessus
+1. Anteater - A python based web reconnaisence tool. https://github.com/brianlinhung/Anteater
+2. Nessus Pro API - A powershell Script to Export and Download Nessus Scan Results via Nessus API. https://github.com/brianlinhung/PowershellNessus
 
 
 ## Screenshot
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_Output.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_Output.png?raw=true" alt="Forensicator"  /> <br>
 ## HTML Output
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML1.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML2.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML3.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML1.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML2.png?raw=true" alt="Forensicator"  /> <br>
+<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML3.png?raw=true" alt="Forensicator"  /> <br>
 <br></br>
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.
-
-
-
-## License
-[MIT](https://mit.com/licenses/mit/)
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/forensicator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ebuka" /></a></p><br><br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ebuka-john-onyejegbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebuka john onyejegbu" height="30" width="40" /></a>
-</p>
 
