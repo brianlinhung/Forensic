@@ -60,6 +60,6 @@ Windows: v4.0.2 07/08/2024
 
 
 <h3 align="left">Support:</h3>
-<p>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31O5BG6)</a></p><br><br>
+<p><a href='https://ko-fi.com/B0B31O5BG6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br><br>
 
 
